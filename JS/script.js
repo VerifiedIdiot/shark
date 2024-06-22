@@ -9,3 +9,5 @@ function toggleMenu() {
         menu.style.display = "block";
     }
 }
+
+// ㅎㅎ
